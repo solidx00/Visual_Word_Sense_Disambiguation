@@ -23,3 +23,13 @@ Multilingual (Italian and Farsi): Extends the above method by incorporating tran
 English: Utilizes a captioning model to generate image descriptions, then computes sentence embeddings and matches them with textual contexts via cosine similarity.
 
 Multilingual (Italian and Farsi): Applies translation models to evaluate cross-lingual captioning effectiveness, offering insights into the performance of captioning models across languages.
+
+### Results
+| Approach | English    | Italian    | Farsi | Average Accuracy
+| :---:   | :---: | :---: | :---: | :---: |
+| CLIP | 0.58   | 0.19   | 0.07 | 0.28
+| WordNet+Lesk | 0.64   | 0.49   | 0.29 | 0.48
+| Image Captioning | 0.28   | 0.40   | 0.05 | 0.25
+
+### Conclusion
+Among the explored methods, the WordNet+Lesk algorithm consistently yielded superior performance across all tested languages, demonstrating its effectiveness for VWSD tasks.
