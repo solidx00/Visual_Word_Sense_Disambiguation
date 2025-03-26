@@ -1,0 +1,305 @@
+gomma	gomma per smacchiare	image.0.jpg
+asino	asino gioco di carte	image.18.jpg
+colonna	colonna missione	image.22.jpg
+box	box per infanti	image.34.jpg
+bolla	bolla di misurazione	image.45.jpg
+banco	banco scrivania	image.52.jpg
+durone	durone arbusto	image.67.jpg
+alfiere	alfiere si muove in diagonale	image.73.jpg
+chiocciola	chiocciola strisciante	image.85.jpg
+aquila	aquila stelle	image.94.jpg
+esecuzione	esecuzione esibizione	image.106.jpg
+medusa	medusa d'acqua	image.115.jpg
+cassa	cassa da fuoco	image.123.jpg
+bacino	bacino lago	image.138.jpg
+barba	barba acquatica	image.144.jpg
+mimosa	mimosa natura	image.158.jpg
+ariete	ariete di battaglia	image.164.jpg
+iceberg	iceberg di ghiaccio	image.177.jpg
+centauro	centauro spazio	image.181.jpg
+ariete	ariete in cielo	image.194.jpg
+carta	carta da gioco	image.199.jpg
+fiocco	fiocco di neve	image.210.jpg
+mosca	mosca peluria	image.222.jpg
+argine	argine di una diga	image.235.jpg
+albero	albero d'imbarcazione	image.238.jpg
+gru	gru galassia	image.248.jpg
+cipolla	cipolla diuretica	image.258.jpg
+iride	iride fiore	image.277.jpg
+angelo	angelo del paradiso	image.280.jpg
+apertura	apertura di una partita	image.293.jpg
+banco	banco d'officina	image.52.jpg
+limetta	limetta per le unghie	image.305.jpg
+ferro	ferro per stirare	image.321.jpg
+bomba	bomba di crema	image.324.jpg
+canna	canna d'organo	image.339.jpg
+asta	asta palo	image.346.jpg
+gomma	gomma sul tronco	image.356.jpg
+caramella	caramella monocolo	image.347.jpg
+leone	leone foresta	image.374.jpg
+bolla	bolla cutanea	image.41.jpg
+penna	penna di volatile	image.395.jpg
+catena	catena di un veicolo	image.401.jpg
+riccio	riccio pettinatura	image.408.jpg
+cartella	cartella icona	image.421.jpg
+cacao	barretta di cacao	image.432.jpg
+cocco	cocco batterio	image.438.jpg
+baco	baco natura	image.453.jpg
+piumino	piumino per riscaldarsi	image.463.jpg
+cassa	cassa combinazione	image.125.jpg
+babele	babele torre	image.472.jpg
+camaleonte	camaleonte stelle	image.485.jpg
+batteria	batteria per suonare	image.334.jpg
+jfk	jfk persona	image.502.jpg
+calcagno	calcagno di scarpa	image.514.jpg
+cuffia	cuffia per piscina	image.524.jpg
+orbita	orbita terrestre	image.535.jpg
+rosa	rosa in architettura	image.544.jpg
+corona	corona di fiori	image.553.jpg
+lama	lama quadrupete	image.566.jpg
+muro	muro sport	image.573.jpg
+rampicante	pianta rampicante	image.586.jpg
+presa	presa impugnare	image.594.jpg
+coda	coda fila	image.601.jpg
+cappuccino	cappuccino mammifero	image.613.jpg
+asta	asta prua	image.622.jpg
+caffè	caffè in tazzina	image.630.jpg
+cipolla	cipolla da taschino	image.638.jpg
+iceberg	iceberg da mangiare	image.646.jpg
+riccio	riccio d'acqua	image.659.jpg
+lino	tessuto di lino	image.664.jpg
+retina	retina oculare	image.677.jpg
+crema	crema pasticcera	image.686.jpg
+lima	lima d'acciaio	image.694.jpg
+obiettivo	obiettivo fotografico	image.704.jpg
+ariete	ariete animale	image.712.jpg
+retina	retina per capelli	image.721.jpg
+cotta	cotta armatura	image.729.jpg
+galletto	fungo galletto	image.739.jpg
+impermeabile	impermeabile per il maltempo	image.745.jpg
+ciccia	ciccia obeso	image.755.jpg
+rosa	rosa fiorita	image.766.jpg
+lampo	lampo e tuoni	image.776.jpg
+fusto	fusto tronco	image.790.jpg
+porta	porta valico	image.797.png
+giacinto	giacinto gemma	image.803.jpg
+cappa	cappa mantella	image.816.jpg
+mimo	attore mimo	image.822.jpg
+aquila	aquila animale	image.836.jpg
+carro	carro da trainare	image.847.jpg
+rocco	rocco bastone	image.858.jpg
+cocco	noce di cocco	image.866.jpg
+coca	coca bibita	image.872.jpg
+piano	piano di un condominio	image.883.jpg
+erba	erba foraggio	image.893.jpg
+ago	ago per puntura	image.301.jpg
+riso	riso alimento	image.912.jpg
+elica	elica di un motore	image.924.jpg
+ittero	ittero infezione	image.936.jpg
+dado	dado per brodo	image.943.jpg
+gru	gru uccello	image.952.jpg
+ambrosia	ambrosia dessert	image.960.jpg
+disco	disco da gioco	image.968.jpg
+olio	olio motore	image.977.jpg
+giostra	giostra medioevale	image.984.jpg
+chiave	chiave d'apertura	image.997.jpg
+crema	crema purea	image.1007.JPG
+minerale	bibita minerale	image.1015.jpg
+mazza	mazza per lavori	image.510.jpg
+campanella	campanella profumata	image.1031.jpg
+moto	moto a benzina	image.1041.jpg
+limetta	limetta agrume	image.1053.jpg
+lampo	lampo flash	image.1063.jpg
+manhattan	manhattan bevibile	image.1067.jpg
+martello	martello con le branchie	image.1079.jpg
+passerina	uva passerina	image.1082.jpg
+corona	corona reale	image.1095.jpg
+espresso	caffè espresso	image.630.jpg
+cascata	cascata d'acqua	image.1109.jpg
+cucù	orologio a cucù	image.1124.jpg
+cassa	cassa supermercato	image.1125.jpg
+fiocco	legati con fiocco	image.1133.jpg
+porta	porta di un edificio	image.793.jpg
+cimice	cimice per appendere	image.1081.png
+mazza	mazza da cricket	image.1152.jpg
+film	film rullino	image.1163.jpg
+brocca	brocca contenitore	image.52.jpg
+fede	fede di matrimonio	image.1175.jpg
+nido	nido di volatili	image.1191.jpg
+filo	filo di lana	image.1200.jpg
+catena	catena multinazionale	image.396.jpg
+bilancia	bilancia costellazione	image.1219.jpg
+campagna	campagna appezzamento	image.1230.png
+ariete	ariete idrico	image.1234.jpg
+pizzo	tessuto di pizzo	image.1243.jpg
+coriandolo	coriandolo di carta	image.1252.jpg
+mazza	mazza da baseball	image.1257.jpg
+rana	rana anfibio	image.1259.jpg
+porto	liquore di porto	image.1268.jpg
+cavallo	cavallo olimpiadi	image.842.jpg
+coccio	coccio pesce	image.1294.jpg
+lira	lira volatile	image.1305.png
+frattura	frattura ossea	image.1306.png
+menta	confetti di menta	image.1320.jpg
+dracaena	dracaena rettile	image.1327.jpg
+leone	leone sistema stellare	image.1335.jpg
+calata	calata in montagna	image.1345.jpg
+barba	barba in faccia	image.1360.jpg
+carambola	carambola seme	image.1362.jpg
+ambra	ambra pietra	image.1373.jpg
+asse	asse edile	image.1384.jpg
+argonauta	argonauta di mare	image.1394.jpg
+gru	gru mezzo pesante	image.1409.jpg
+batteria	batteria d'armi	image.495.jpg
+bastoni	briscola di bastoni	image.1424.jpg
+navigare	navigare il web	image.1435.jpg
+espresso	consegna espresso	image.1441.jpg
+maiale	maiale nel fango	image.1451.jpg
+arenaria	arenaria volatile	image.1456.jpg
+mitra	mitra religioso	image.1470.jpg
+carena	carena di un battello	image.1483.jpg
+nido	nido per i bimbi	image.1488.jpg
+cartone	cartone riciclabile	image.1501.jpg
+cavalluccio	cavalluccio marino	image.1509.jpg
+espettorazione	espettorazione catarro	image.1516.jpg
+angelo	angelo d'acqua	image.1526.jpg
+bomba	bomba esplosione	image.1534.jpg
+cucù	cucù uccello	image.1539.jpg
+ago	ago sarto	image.1550.jpg
+girella	girella cibo	image.1556.jpg
+mousse	mousse schiumosa	image.1566.jpg
+conga	conga bongo	image.1579.jpg
+carcassa	carcassa umana	image.1593.jpg
+messe	celebrare messe	image.1601.jpg
+manubrio	manubrio di palestra	image.1611.png
+cucina	cucina ambiente	image.1616.jpg
+cigno	cigno in un lago	image.1629.jpg
+granata	munizioni a granata	image.1637.jpg
+calcagno	calcagno del piede	image.1641.jpg
+menta	piantina di menta	image.1655.jpg
+mazza	mazza da golf	image.1658.jpg
+portiere	portiere in uno sport	image.1668.jpg
+chili	chili spezia	image.1678.jpg
+durone	durone callo	image.1689.jpg
+radio	radio avambraccio	image.1700.jpg
+assenzio	assenzio erbe	image.1706.jpg
+neve	sniffarsi la neve	image.1716.jpg
+ghiottone	ghiottone animale	image.1721.jpg
+pappagallo	pappagallo volatile	image.1731.jpg
+farfalla	farfalla cravattino	image.1741.jpg
+ittero	ittero uccellino	image.1747.jpg
+capo	capo allenatore	image.1764.jpg
+cartella	cartella da lavoro	image.1771.png
+chiodo	chiodo appuntito	image.1774.jpg
+acquario	acquario vasca	image.1786.jpg
+pipistrello	pipistrello scialle	image.1792.jpg
+fregio	bassorilievo in un fregio	image.1802.jpg
+ghiottone	ghiottone golosone	image.1814.jpg
+bue	bue al pascolo	image.1825.jpg
+pipa	pipa per fumare	image.1604.jpg
+bagno	bagno sanitari	image.1844.jpg
+cavallo	cavallo pezzo leggero	image.842.jpg
+eva	adamo ed eva	image.1860.jpg
+assenzio	assenzio digestivo	image.1864.jpg
+rana	nuotare a rana	image.1873.jpg
+colorante	colorante per tintura	image.1884.png
+box	box d'auto	image.1897.jpg
+depressione	depressione avvallamento	image.1903.jpg
+asta	asta di un gioco	image.1912.jpg
+doppietta	doppietta arma	image.1917.jpg
+adesivo	adesivo collante	image.1926.jpg
+corona	corona astronomia	image.1934.jpg
+cipolla	cipolla acconciatura	image.1937.jpg
+dado	dado per giocare	image.1949.jpg
+pappagallo	pappagallo per urinare	image.1959.jpg
+ballerina	ballerina volatile	image.1961.jpg
+plutone	plutone masso	image.1973.jpg
+acquario	acquario astronomia	image.1982.jpg
+caccia	stagione di caccia	image.1989.jpg
+collo	collo umano	image.2003.jpg
+campanella	campanella d'abitazione	image.2008.jpg
+bongo	bongo mammifero	image.2021.jpg
+aurora	aurora del mattino	image.2031.jpg
+coda	taglio con coda	image.601.jpg
+buccia	buccia frutto	image.2043.jpg
+filo	filo di spago	image.2051.jpg
+pesca	pesca frutto	image.2060.jpg
+box	box guantoni	image.1480.jpg
+riccio	riccio mammifero	image.2069.jpg
+chiave	chiave per svitare	image.2079.jpg
+cilindro	cilindro di un mago	image.2086.jpg
+bilancia	bilancia e chili	image.2098.jpg
+asse	asse d'umano	image.2104.jpg
+piano	piano suonabile	image.881.jpg
+conchiglia	conchiglia marina	image.2119.jpg
+ortolano	mestiere di ortolano	image.2131.jpg
+pizzo	pizzo peluria	image.2143.jpg
+mimosa	mimosa prosecco	image.2146.jpg
+orbita	orbita oculare	image.2157.jpg
+porta	porta rete	image.2165.jpg
+cocco	palma di cocco	image.444.jpg
+procione	procione animale	image.2179.jpg
+grifone	grifone volatile	image.2188.jpg
+gola	gola del terreno	image.796.jpg
+pollice	pollice misurazione	image.2213.jpg
+bagno	bagno nuoto	image.2217.jpg
+golf	golf maglione	image.2224.jpg
+conga	conga ballo	image.2233.jpg
+carambola	carambola arbusto	image.2248.jpg
+ceppo	ceppo di prigionia	image.2250.jpg
+pigliamosche	pianta pigliamosche	image.2259.jpg
+campagna	campagna politica	image.2274.jpg
+calcio	calcio impugnatura	image.2282.jpg
+dado	dado per viti	image.2288.jpg
+racchetta	racchetta da tennis	image.2290.jpg
+farfalla	nuotare a farfalla	image.1741.jpg
+kiwi	kiwi uccello	image.2310.jpg
+porro	porro ortaggio	image.2317.jpg
+batteria	batteria per l'elettricità	image.2323.jpg
+cappa	cappa aspiratore	image.120.jpg
+barbone	barbone bestia	image.2343.jpg
+coperto	coperto servizio	image.2354.jpg
+cacao	cacao seme	image.433.jpg
+bacchetta	bacchetta per mangiare	image.1642.jpg
+dorso	dorso piscina	image.524.jpg
+baco	baco informatico	image.2384.jpg
+delfino	stile a delfino	image.2389.jpg
+anfibio	mezzo anfibio	image.2398.jpg
+rondella	rondella per bulloni	image.2288.jpg
+deposito	deposito posa	image.2422.jpg
+barca	barca scialuppa	image.2432.jpg
+ghiacciolo	ghiacciolo commestibile	image.975.jpg
+balestra	balestra del medioevo	image.2441.jpg
+barriera	barriera cancello	image.2450.jpg
+rete	rete marina	image.2462.jpg
+gomma	masticare la gomma	image.2466.jpg
+cielo	cielo del soffitto	image.2473.jpg
+cuffia	cuffia per audio	image.2485.jpg
+anfibio	essere anfibio	image.2488.jpg
+canale	canale di navigazione	image.2500.jpg
+berta	berta volatile	image.2515.jpg
+cintola	cintola per stringere	image.396.jpg
+asino	asino erbivoro	image.2532.jpg
+gola	gola umana	image.2538.jpg
+banco	banco panchina	image.52.jpg
+colonna	colonna portante	image.22.jpg
+caramella	caramella gommosa	image.2553.jpg
+atropo	atropo insetto	image.2567.jpg
+boa	boa sciarpa	image.2577.jpg
+capsula	capsula blister	image.2467.jpg
+bastoni	bastoni per uno sport	image.2590.jpg
+adesivo	adesivo figurina	image.2604.jpg
+riso	riso di gioia	image.2613.jpg
+eremita	eremita paguro	image.2619.jpg
+boa	boa rettile	image.2633.jpg
+alfiere	alfiere rappresentante	image.2636.jpg
+giacinto	giacinto foglie	image.2650.jpg
+fusto	fusto addome	image.2656.jpg
+penna	penna cibo	image.2666.png
+olio	olio bevibile	image.2675.jpg
+capsula	capsula pressurizzata	image.2676.jpg
+fenice	fenice animale	image.2690.jpg
+puntine	puntine da parete	image.570.jpg
+costume	costume di mare	image.2701.jpg
+ceppo	ceppo di un albero	image.2711.jpg
+dorso	dorso schiena	image.2720.jpg
