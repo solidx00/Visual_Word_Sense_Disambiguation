@@ -42,6 +42,3 @@ https://colab.research.google.com/drive/1KKbsHyVp7yfKSh9meXU3SZlPH_9BkGz5#scroll
 | CLIP | 0.58   | 0.19   | 0.07 | 0.28
 | WordNet+Lesk | 0.64   | 0.49   | 0.29 | 0.48
 | Image Captioning | 0.28   | 0.40   | 0.05 | 0.25
-
-### Conclusion
-Among the explored methods, the WordNet+Lesk algorithm consistently yielded superior performance across all tested languages, demonstrating its effectiveness for VWSD tasks.
