@@ -1,7 +1,5 @@
 # Visual_Word_Sense_Disambiguation
 
-## Overview
-
 This project addresses the task of Visual Word Sense Disambiguation (VWSD), which is central to multimodal artificial intelligence, bridging natural language processing (NLP) and computer vision. The goal is to accurately associate textual words or sentences with corresponding visual representations (images), thereby resolving ambiguity in textual descriptions.
 
 ## Approaches Implemented
