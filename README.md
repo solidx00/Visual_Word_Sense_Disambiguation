@@ -25,7 +25,7 @@ English: Utilizes a captioning model to generate image descriptions, then comput
 Multilingual (Italian and Farsi): Applies translation models to evaluate cross-lingual captioning effectiveness, offering insights into the performance of captioning models across languages.
 
 ## Dataset and Savings
-The dataset employed in the experiments with savings, are openly accessible through the following resources:
+The dataset and savings employed in the experiments, are openly accessible through the following resources:
 
 ### Dataset
 ```bash
