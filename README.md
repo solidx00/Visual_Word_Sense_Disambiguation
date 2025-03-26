@@ -34,7 +34,7 @@ https://colab.research.google.com/drive/1KKbsHyVp7yfKSh9meXU3SZlPH_9BkGz5#scroll
 https://colab.research.google.com/drive/1KKbsHyVp7yfKSh9meXU3SZlPH_9BkGz5#scrollTo=eEG-73l8abXg](https://drive.google.com/drive/folders/1jqd0cgp5V3wV7Sf7XJjwvSRIFthVv1aM?usp=sharing)](https://drive.google.com/drive/folders/1rPSsRoxJ0eCBWCZb5jecyxQc8VrA6FWC?usp=drive_link)
 ```
 
-### Results
+## Results
 | Approach | English    | Italian    | Farsi | Average Accuracy
 | :---:   | :---: | :---: | :---: | :---: |
 | CLIP | 0.58   | 0.19   | 0.07 | 0.28
